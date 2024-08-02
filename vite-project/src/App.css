@@ -1,0 +1,11 @@
+.container {
+  max-width: 600px;
+}
+
+textarea.form-control {
+  font-family: monospace;
+}
+
+.card {
+  border: 1px solid #ddd;
+}
